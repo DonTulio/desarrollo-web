@@ -4,5 +4,6 @@ Este contenido con el tiempo seguirá expandiendo para ustedes y puedan tener un
 Por ahora solo tenemos los siguientes puntos:
 
 * [X] [Preparación de ambiente]( https://youtu.be/awWnwz6W51g)
-* [X] [DWY - Recordando la estructura](https://youtu.be/h3wUF3ozq7g) 
+* [X] [DWY - Recordando la estructura](https://youtu.be/h3wUF3ozq7g)
+* [X] [DWY - Creando una estructura](https://youtu.be/vky3x-zTjeo)
 ---
